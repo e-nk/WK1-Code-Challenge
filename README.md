@@ -45,7 +45,7 @@ The total number of points is: 4
 ****
 ```
    
-<h1>Challenge 3 <h1>
+<h1>Challenge 3 </h1>
 
 Challenge 3: Net Salary Calculator (Toy Problem)
 
