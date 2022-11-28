@@ -2,6 +2,7 @@
 <h1>Challenge 1</h1>
 Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
+
         A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
 To run this program on your computer, follow through these steps:
@@ -10,12 +11,15 @@ Fork or clone this repository into your local computer
                 git@github.com:e-nk/WK1-Code-Challenge.git
       
     
-Open your cloned repository on the term
+Open your cloned repository on the terminal
+
                 - cd WK1-Code-Chal
                 - run npm install prompt-sync
 Open the repository in your code editor in this case I am running Vs code.
+
                 code .
 You can test this program on your Vs code terminal by running. It should give you a prompt to enter students marks
+
                 - node studentgrades.js
         
 You have successfully completed the first Challenge.
@@ -26,23 +30,17 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
 
    > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
-To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 1.
+To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 
 
-        - On your vs-code terminal, run the following command to run the program:
-                ```javascript
-        ****
-                node speeddetector.js
+On your vs-code terminal, run the following command to run the program:
+           
+           node speeddetector.js
+It should give you a prompt to enter car speed.
 
-        ****
-        ```
-        - It should give you a prompt to enter car speed.
-```javascript
-****
-enock@Viscount:~/Development/code/phase-1/week-challenge$ node speeddetector.js
-Please enter car speed: 90
-The total number of points is: 4
-****
-```
+        enock@Viscount:~/Development/code/phase-1/week-challenge$ node speeddetector.js
+        Please enter car speed: 90
+        The total number of points is: 4
+
    
 <h1>Challenge 3 </h1>
 
@@ -62,19 +60,12 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 1.
 
   - On your vs-code terminal, run the following command to run the program:
-                ```javascript
-        ****
+ 
                 node netsalary.js
 
-        ****
-        ```
-
-
-        It should give you a prompt to input the basic salary, total benefits and pensionable.
-
-        ```javascript
-       
-        ****enock@Viscount:~/Development/code/phase-1/week-challenge$ node netsalary.js
+  - It should give you a prompt to input the basic salary, total benefits and pensionable.
+  
+        enock@Viscount:~/Development/code/phase-1/week-challenge$ node netsalary.js
         Please enter your basic salary : 500000000
         Please enter your total benefits: 340000
         Please enter your pensionable pay: 500000
@@ -82,5 +73,4 @@ To run this program on your computer, follow through these steps, assuming you h
         Your NHIF deductions are:  150
         You nssf deductions are:  8333333.333333334
         Your Gross Salary is:  500340000
-        enock@Viscount:~/Development/code/phase-1/week-challenge$ ****
-        ```
+       
