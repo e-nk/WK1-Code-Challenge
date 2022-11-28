@@ -2,22 +2,21 @@
 <h1>Challenge 1</h1>
 Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
-       > A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
 To run this program on your computer, follow through these steps:
-        - fork or clone this repository into your local computer
-        ```javascript
-        ****
+Fork or clone this repository into your local computer
+
                 git@github.com:e-nk/WK1-Code-Challenge.git
-        ****
-        ```
-        - open your cloned repository on the terminal
-                cd WK1-Code-Challenge
-        - run npm install prompt-sync
-        - Open the repository in your code editor in this case I am running Vs code.
+      
+    
+Open your cloned repository on the term
+                - cd WK1-Code-Chal
+                - run npm install prompt-sync
+Open the repository in your code editor in this case I am running Vs code.
                 code .
-        - You can test this program on your Vs code terminal by running. It should give you a prompt to enter students marks
-                node studentgrades.js
+You can test this program on your Vs code terminal by running. It should give you a prompt to enter students marks
+                - node studentgrades.js
         
 You have successfully completed the first Challenge.
 
