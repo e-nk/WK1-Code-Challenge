@@ -3,24 +3,24 @@
 Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
-        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+  >  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
 To run this program on your computer, follow through these steps:
-Fork or clone this repository into your local computer
+  - Fork or clone this repository into your local computer
 
                 git@github.com:e-nk/WK1-Code-Challenge.git
       
     
-Open your cloned repository on the terminal
+  - Open your cloned repository on the terminal
 
-                - cd WK1-Code-Chal
-                - run npm install prompt-sync
-Open the repository in your code editor in this case I am running Vs code.
+                cd WK1-Code-Chal
+                run npm install prompt-sync
+  - Open the repository in your code editor in this case I am running Vs code.
 
                 code .
-You can test this program on your Vs code terminal by running. It should give you a prompt to enter students marks
+  - You can test this program on your Vs code terminal by running. It should give you a prompt to enter students marks
 
-                - node studentgrades.js
+                node studentgrades.js
         
 You have successfully completed the first Challenge.
 
@@ -32,10 +32,10 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
 
 To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 
 
-On your vs-code terminal, run the following command to run the program:
+  - On your vs-code terminal, run the following command to run the program:
            
            node speeddetector.js
-It should give you a prompt to enter car speed.
+  - It should give you a prompt to enter car speed.
 
         enock@Viscount:~/Development/code/phase-1/week-challenge$ node speeddetector.js
         Please enter car speed: 90
