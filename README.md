@@ -1,4 +1,5 @@
-# Week1- CODE CHALLENGE
+#WEEK1- CODE CHALLENGE
+
 # Description
 This is a repo of my phase1 week1 code-challenge. I used javascript only for this project and used prompt-sync tool for user input prompts.
 
@@ -7,6 +8,13 @@ Challenge 1: Student Grade Generator (Toy Problem)
   Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade,    as shown below: 
 
   >  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+
+# Getting Started
+In order for you to use the content on this repo ensure you have the following:
+
+- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
+- nodejs 9.0+
+
 ## Installation
 To run this program on your computer, follow through these steps:
   - Fork or clone this repository into your local computer
