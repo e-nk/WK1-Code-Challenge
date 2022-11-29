@@ -1,4 +1,4 @@
-#WEEK1- CODE CHALLENGE
+# WEEK1- CODE CHALLENGE
 
 # Description
 This is a repo of my phase1 week1 code-challenge. I used javascript only for this project and used prompt-sync tool for user input prompts.
