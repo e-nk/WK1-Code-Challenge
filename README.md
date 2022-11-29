@@ -78,7 +78,8 @@ To run this program on your computer, follow through these steps, assuming you h
 
 
 
-  ISC License (ISC)
-  License: ICL
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-  Author: Enock Kipkoech
+ISC License (ISC)
+License: ICL
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  
+Author: Enock Kipkoech
