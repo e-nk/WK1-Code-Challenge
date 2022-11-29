@@ -7,7 +7,7 @@ Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
   >  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
-
+## Installation
 To run this program on your computer, follow through these steps:
   - Fork or clone this repository into your local computer
 
@@ -33,6 +33,7 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
 
    > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
+## Installation
 To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 
 
   - On your vs-code terminal, run the following command to run the program:
@@ -59,7 +60,7 @@ https://www.aren.co.ke/payroll/taxrates.htm
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
-
+## Installation
 To run this program on your computer, follow through these steps, assuming you have the repository in your local computer and it is open in Vs code as demonstrated above on challenge 1.
 
   - On your vs-code terminal, run the following command to run the program:
