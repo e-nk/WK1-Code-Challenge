@@ -1,5 +1,11 @@
 # Week1- CODE CHALLENGE
 This is a repo of my phase1 week1 code-challenge. I used javascript only for this project and used prompt-sync tool for user input prompts
+ISC License (ISC)
+License: ICL
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+Author: ENOCK KIPKOECH
+
 <h1>Challenge 1</h1>
 Challenge 1: Student Grade Generator (Toy Problem)
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
