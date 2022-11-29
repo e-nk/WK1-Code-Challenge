@@ -1,11 +1,5 @@
 # Week1- CODE CHALLENGE
-This is a repo of my phase1 week1 code-challenge. I used javascript only for this project and used prompt-sync tool for user input prompts
-
-  ISC License (ISC)
-  License: ICL
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-
-  Author: ENOCK KIPKOECH
+This is a repo of my phase1 week1 code-challenge. I used javascript only for this project and used prompt-sync tool for user input prompts.
 
 <h1>Challenge 1</h1>
 Challenge 1: Student Grade Generator (Toy Problem)
@@ -81,4 +75,10 @@ To run this program on your computer, follow through these steps, assuming you h
         Your NHIF deductions are:  150
         You nssf deductions are:  8333333.333333334
         Your Gross Salary is:  500340000
-       
+
+
+
+  ISC License (ISC)
+  License: ICL
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  Author: Enock Kipkoech
