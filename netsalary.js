@@ -123,7 +123,7 @@ function netSalary() {
 }
 
 
-
+//calling the functions
 payeeCalculator();
 nhifDeductionsCalculator();
 nssfDeductionsCalculator();
